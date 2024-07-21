@@ -34,7 +34,7 @@ I love collaborating! If you're interested in contributing, please check out the
 
 ## 📬 Get in Touch
 
-I'm always open to discussions, collaborations, or just a friendly chat. Reach out to me via [osama.kadhem1@gmail.com], or connect with me on [LinkedIn](https://www.linkedin.com/in/osama-saleh-7656b3257)).
+I'm always open to discussions, collaborations, or just a friendly chat. Reach out to me via [osama.kadhem1@gmail.com], or connect with me on [LinkedIn](https://www.linkedin.com/in/osama-saleh-7656b3257).
 
 ## 📜 License
 
